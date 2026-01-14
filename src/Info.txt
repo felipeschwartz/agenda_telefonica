@@ -1,0 +1,24 @@
+Agenda telefônica / contatos
+Contexto: você quer gerenciar seus contatos pessoais.
+
+Requisitos funcionais:
+•	Cada contato possui:
+o	nome (String), telefone (String), email (String)
+
+•	Menu:
+1.	Cadastrar contato
+2.	Listar contatos
+3.	Buscar contato pelo nome (exato ou começando com…)
+4.	Remover contato pelo nome
+5.	Sair
+
+
+Requisitos técnicos:
+•	Classe Contato.
+•	Estrutura de dados para guardar a lista de contatos.
+•	Para remover, encontrar o contato e removê-lo da lista.
+
+
+Desafios extra:
+•	Permitir editar um contato existente.
+•	Tratar o caso de “contato não encontrado”.
